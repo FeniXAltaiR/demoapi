@@ -1,8 +1,16 @@
 {
   "data": [
-    { "series": "2018", "value": 45 },
-    { "series": "2019", "value": 38 },
+    { "series": "2010", "value": 67 },
+    { "series": "2011", "value": 26 },
+    { "series": "2012", "value": 39 },
+    { "series": "2013", "value": 48 },
+    { "series": "2014", "value": 41 },
+    { "series": "2015", "value": 19 },
+    { "series": "2016", "value": 78 },
+    { "series": "2017", "value": 35 },
+    { "series": "2018", "value": 29 },
+    { "series": "2019", "value": 82 },
     { "series": "2020", "value": 93 },
-    { "series": "2021", "value": 23 }
+    { "series": "2021", "value": 23 },
   ]
 }
